@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Danube>
+<search>searchbar</search>
+<buttonsearch>preview</buttonsearch>
+<addtocart>//button[contains(text(),'Add to cart')]</addtocart>
+<checkout>//button[contains(text(),'Checkout')]</checkout>
+<Name>s-name</Name>
+<Surname>s-surname</Surname>
+<Address>s-address</Address>
+<Zipcode>s-zipcode</Zipcode>
+<City>s-city</City>
+<Company>s-company</Company>
+<Asap>asap</Asap>
+<buy>//button[contains(text(),'Buy')]</buy>
+</Danube>
